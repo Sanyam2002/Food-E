@@ -4,5 +4,5 @@
 3) In backend directory - i) npm uninstall razorpay
                           ii) npm install razorpay
 4) To start the Project - npm run both
-5) To Start Flask server - i) .\env\Scripts\activate
+5) To Start Flask server in the backend directory - i) .\env\Scripts\activate
                            ii) flask run
